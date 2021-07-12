@@ -1,0 +1,11 @@
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\bin\Debug\net5.0\MyLibrary.deps.json
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\bin\Debug\net5.0\MyLibrary.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\bin\Debug\net5.0\ref\MyLibrary.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\bin\Debug\net5.0\MyLibrary.pdb
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\obj\Debug\net5.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfo.cs
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\obj\Debug\net5.0\MyLibrary.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\obj\Debug\net5.0\ref\MyLibrary.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#2\HelloAppConsoleWithLibrary\MyLibrary\obj\Debug\net5.0\MyLibrary.pdb
